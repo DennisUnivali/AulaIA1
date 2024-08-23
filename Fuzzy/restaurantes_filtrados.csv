@@ -1,0 +1,473 @@
+﻿Restaurant ID;Restaurant Name;Cuisines;Average Cost for two;Price range;Aggregate rating;Rating color;Rating text;Votes
+16615894;The Giggling Goat;Coffee and Tea, Tea, Modern Australian;7;1;36;Yellow;Good;29
+16604896;La Trattoria of Lavandula;Italian, Fusion, Cafe;7;1;38;Yellow;Good;93
+16606299;Beach Box Cafe;Burger, Coffee and Tea, Modern Australian;7;1;37;Yellow;Good;100
+16605794;Funkey Monkey;Breakfast, Coffee and Tea;7;1;38;Yellow;Good;97
+17284203;BJ's Country Buffet;American, BBQ;10;1;33;Orange;Average;25
+17284397;Elements Coffee Co - Northwest;Coffee and Tea, Sandwich;10;1;34;Orange;Average;26
+17284094;Chick-fil-A;Fast Food;10;1;35;Yellow;Good;67
+17284409;Guang Zhou Chinese Restaurant;Asian, Chinese, Vegetarian;10;1;39;Yellow;Good;141
+17284150;House of China Restaurant II;Chinese;10;1;38;Yellow;Good;153
+17284158;Jimmie's Hot Dogs;;10;1;39;Yellow;Good;160
+17284279;Villa Gargano;Italian, Pizza;10;1;37;Yellow;Good;117
+17284364;3 Squares Diner;American, Breakfast, Diner;10;1;34;Orange;Average;20
+17293301;Mama's Boy Restaurant;Southern;10;1;45;Dark Green;Excellent;849
+17293409;Sr. Sol 1;Mexican;10;1;46;Dark Green;Excellent;917
+17293163;Choo Choo Eastside;Japanese, Korean;10;1;39;Yellow;Good;439
+17293228;The Grill;Breakfast, Burger, Sandwich;10;1;37;Yellow;Good;289
+17293880;Big City Bread Cafe;Breakfast, Sandwich;10;1;43;Green;Very Good;558
+17293169;Clocked;American, Burger, Sandwich;10;1;42;Green;Very Good;613
+17293229;Grit;International, Southern, Vegetarian;10;1;42;Green;Very Good;800
+17293897;Ike & Jane;Sandwich;10;1;41;Green;Very Good;350
+17293877;Taqueria Del Sol;Mexican, Spanish;10;1;41;Green;Very Good;543
+17293915;The Royal Peasant;Bar Food;10;1;44;Green;Very Good;546
+17293422;Transmetropolitan;Italian, Pizza, Sandwich;10;1;44;Green;Very Good;1098
+17294014;Viva! Argentine Cuisine;Desserts, Latin American, Argentine;10;1;41;Green;Very Good;374
+17294300;Boll Weevil Cafe;Desserts, Sandwich, Southern;10;1;39;Yellow;Good;372
+17294565;Nacho Mamas Burritos;Mexican;10;1;4;Green;Very Good;380
+17295115;Pho Bac;Vietnamese;10;1;41;Green;Very Good;270
+17294883;El Kiosco Mexican Restaurant;Mexican;10;1;42;Green;Very Good;300
+17303655;Bar Gernika Basque Pub & Eatery;European, Spanish;10;1;43;Green;Very Good;303
+17303478;Big Jud's;American, Burger, Sandwich;10;1;42;Green;Very Good;334
+17304733;Boise Fry Company;American, Burger;10;1;44;Green;Very Good;823
+17303684;Guido's Original New York Style Pizza;Pizza;10;1;43;Green;Very Good;410
+17303772;Los Beto's;Mexican;10;1;44;Green;Very Good;660
+17304741;The Egg Factory;Breakfast;10;1;43;Green;Very Good;422
+17315995;El Super Burrito;Mexican;10;1;41;Green;Very Good;190
+17316201;Thai Moon Restaurant;Chinese, Sushi, Thai;10;1;42;Green;Very Good;220
+17316208;Ting's Red Lantern;Chinese;10;1;42;Green;Very Good;347
+17316744;Shorts Burger and Shine;Burger;10;1;49;Dark Green;Excellent;820
+17316751;The Hamburg Inn No. 2 Inc.;American, Breakfast, Burger;10;1;45;Dark Green;Excellent;488
+17558684;Berry Patch Restaurant;American, Breakfast, Desserts;10;1;43;Green;Very Good;96
+17330755;Uptown Vietnam cuisine;Asian, Vietnamese;10;1;33;Orange;Average;33
+17330397;Ruth Ann's Family Restaurant;Breakfast, Diner, Southern;10;1;37;Yellow;Good;123
+17330615;Mongo The Mongolian Fire Pit;Asian, Chinese;10;1;42;Green;Very Good;355
+17334348;Christian and Jake's Bistro;Desserts, Sandwich;10;1;44;Green;Very Good;122
+17334355;Sierra's Mexican Restaurant;Mexican, Tex-Mex;10;1;39;Yellow;Good;66
+17334212;Oakwood Cafe;BBQ, Breakfast, Southern;10;1;49;Dark Green;Excellent;249
+17334273;Las Palmas;Mexican;10;1;38;Yellow;Good;83
+17333836;Filling Station;American, Burger;10;1;41;Green;Very Good;122
+17334197;Five Guys Burgers and Fries;Fast Food;10;1;41;Green;Very Good;142
+17333882;Los Pablos;Mexican;10;1;41;Green;Very Good;114
+17334390;Soho Hibachi;Japanese;10;1;43;Green;Very Good;116
+17334414;Southern Bliss Bakery;Desserts, Sandwich;10;1;37;Yellow;Good;25
+17334082;Bailey's Bar-B-Que;BBQ;10;1;41;Green;Very Good;128
+17334364;Farm To Fork;American, Diner, Southern;10;1;43;Green;Very Good;244
+17334398;Home Plate Grill;American, BBQ, Southern;10;1;42;Green;Very Good;112
+17334219;Pie Slingers Pizzeria;Italian, Pizza;10;1;41;Green;Very Good;144
+17335219;Jimmy's Pancake House;American, Breakfast, Greek;10;1;4;Green;Very Good;85
+17334717;Chick-fil-A;Fast Food;10;1;39;Yellow;Good;125
+17335158;Front Street Brewery;American;10;1;43;Green;Very Good;123
+17257684;A Dong Restaurant;Asian, Vegetarian, Vietnamese, Bubble Tea;10;1;44;Green;Very Good;659
+17259625;Zombie Burger + Drink Lab;Burger, Desserts, Vegetarian;10;1;42;Green;Very Good;943
+17259166;Tsing Tsao South;Chinese;10;1;41;Green;Very Good;218
+17259335;Bandit Burrito;Breakfast, Mexican, Southwestern;10;1;4;Green;Very Good;214
+17342816;Burnt Toast Cafe;Breakfast;10;1;34;Orange;Average;33
+17342648;Salsa's Mexican Restaurant;Mexican;10;1;34;Orange;Average;153
+17342771;Fiesta Cancun;Mexican;10;1;36;Yellow;Good;156
+17342585;Los Aztecas;Mexican;10;1;35;Yellow;Good;126
+17342494;Manna Java World Cafe;Breakfast, Pizza;10;1;35;Yellow;Good;119
+17342665;Sunshine Family Restaurant;American, Breakfast, Burger;10;1;35;Yellow;Good;60
+17536645;Jehova es Mi Pastor Tacos y Burritos;Mexican;10;1;37;Yellow;Good;83
+17375060;Hawg Wild BBQ & Catfish House;BBQ, Burger, Seafood;10;1;41;Green;Very Good;235
+17375078;Smokin Gold BBQ;BBQ;10;1;39;Yellow;Good;133
+17375049;Hoka-Hoka Japanese Steak & Sushi;Chinese, Japanese, Thai;10;1;44;Green;Very Good;267
+17375180;Moonie's Texas Barbecue;BBQ, Sandwich;10;1;41;Green;Very Good;182
+17375047;Eat at Thai;Thai;10;1;46;Dark Green;Excellent;357
+17374819;Longstreet Cafe;Southern;10;1;43;Green;Very Good;298
+17374951;Hofer's Bakery & Cafe;German, Ice Cream;10;1;39;Yellow;Good;136
+17375104;The Nacoochee Village Tavern & Pizzeria;Italian, Pizza, Sandwich;10;1;4;Green;Very Good;161
+17557488;Burger Queen Drive In;Burger, Desserts, Sandwich;10;1;36;Yellow;Good;41
+17500759;Ingleside Village Pizza;Pizza, Sandwich;10;1;49;Dark Green;Excellent;478
+17501298;Greek Corner Deli;Desserts, Greek, Sandwich;10;1;43;Green;Very Good;244
+17500872;Papouli's Mediterranean Cafe & Market;Greek, Mediterranean, Vegetarian;10;1;42;Green;Very Good;223
+17501247;Sushi Thai Restaurant;Japanese, Sushi, Thai;10;1;37;Yellow;Good;153
+17501143;El Jalisciense Mexican Restaurant;Mexican;10;1;41;Green;Very Good;181
+17501301;Thai Pepper;Japanese, Sushi, Thai;10;1;4;Green;Very Good;232
+17482142;Triangle Restaurant;Breakfast, Burger;10;1;24;Red;Poor;17
+17064405;Tako Cheena by Pom Pom;Asian, Latin American, Vegetarian;10;1;44;Green;Very Good;570
+17580160;New Yorker Deli & Pizzeria;Italian, Pizza, Sandwich;10;1;46;Dark Green;Excellent;792
+17580349;Tu-Do Vietnamese Restaurant;Asian, Vietnamese;10;1;45;Dark Green;Excellent;828
+17580511;Original Georgios Authentic Greek Food;Greek;10;1;47;Dark Green;Excellent;816
+17582467;Rupes Burgers;Burger, Fast Food;10;1;37;Yellow;Good;104
+17582498;Riverwalk Cafe;Asian, Thai;10;1;36;Yellow;Good;91
+17582527;Chang Garden;Chinese;10;1;35;Yellow;Good;93
+17582551;Fifth Street Bagelry;Coffee and Tea, Sandwich;10;1;38;Yellow;Good;136
+17582558;Goody's Deli;Pizza, Sandwich;10;1;38;Yellow;Good;160
+17582677;Outer Limits Fun Zone;Burger, Pizza, Sandwich;10;1;35;Yellow;Good;57
+17582546;El Herradero;Mexican;10;1;41;Green;Very Good;365
+17142698;Leonard's Bakery;;10;1;47;Dark Green;Excellent;707
+17142519;Kihei Caffe;American, Hawaiian;10;1;45;Dark Green;Excellent;695
+17145077;Star Noodle;Asian;10;1;46;Dark Green;Excellent;723
+17141447;Aloha Mixed Plate;Asian, Breakfast, Hawaiian;10;1;42;Green;Very Good;874
+17145495;Marukame Udon;Japanese;10;1;49;Dark Green;Excellent;602
+17144732;Eggs 'n Things;Breakfast;10;1;4;Green;Very Good;535
+17615924;Leopold's Ice Cream;Desserts, Sandwich, Ice Cream;10;1;46;Dark Green;Excellent;880
+17616203;Goose Feathers Cafe and Bakery;Breakfast, Vegetarian;10;1;42;Green;Very Good;680
+17616590;Henry's;American, Breakfast;10;1;41;Green;Very Good;287
+17616368;Lulu's Chocolate Bar;Coffee and Tea, Desserts;10;1;43;Green;Very Good;456
+17616465;Tybee Island Social Club;;10;1;39;Yellow;Good;309
+17621696;Bob Roe's Pizza;American, Pizza, Bar Food;10;1;36;Yellow;Good;92
+17621744;Da Kao Restaurant;Asian, Vegetarian, Vietnamese;10;1;38;Yellow;Good;182
+17621759;Famous Dave's;BBQ;10;1;36;Yellow;Good;76
+17621793;Jim's Burgers;Burger;10;1;37;Yellow;Good;97
+17621796;Johnnie Mars;American, Desserts, Diner;10;1;39;Yellow;Good;161
+17621831;Miles Inn;American;10;1;37;Yellow;Good;122
+17621832;Milwaukee Wiener House;American, Fast Food;10;1;38;Yellow;Good;195
+17621834;Monterrey Mexican Restaurant;Mexican;10;1;37;Yellow;Good;117
+17621746;Diamond Thai Cuisine;Asian, Thai, Vegetarian;10;1;4;Green;Very Good;303
+17095098;Mazzaro's Italian Market;Italian, Deli;10;1;49;Dark Green;Excellent;1424
+17093600;Taco Bus;Mexican, Vegetarian;10;1;45;Dark Green;Excellent;1868
+17677991;Bleu Pub;Burger, Bar Food, Vegetarian;10;1;38;Yellow;Good;281
+17678283;El Cazador;Mexican;10;1;37;Yellow;Good;168
+17678326;La Jalisco Supermercato;Mexican;10;1;35;Yellow;Good;46
+17558738;Blue House Cafe;Coffee and Tea, Mediterranean;10;1;43;Green;Very Good;88
+17697444;Masala Grill & Coffee House;Indian, Middle Eastern;10;1;32;Orange;Average;18
+17696891;Four Queens Dairy Cream;Desserts;10;1;39;Yellow;Good;190
+17696901;Hong Kong Chinese Restaurant;Chinese;10;1;38;Yellow;Good;136
+17697417;J's Homestyle Cooking;American, Breakfast;10;1;36;Yellow;Good;69
+17697406;Scratch;Coffee and Tea, Desserts, Beverages;10;1;37;Yellow;Good;136
+17697224;Golden China;Chinese;10;1;37;Yellow;Good;73
+17697389;The Screaming Eagle;American, Bar Food;10;1;37;Yellow;Good;101
+17697424;The Thai Bowl;Thai;10;1;35;Yellow;Good;58
+16611114;Whitebull Hotel;Bar Food, Steak;20;2;35;Yellow;Good;25
+16608864;Taste of Balingup;Modern Australian;20;2;32;Orange;Average;21
+16604911;Bridge Road Brewers;Pizza, Bar Food;20;2;46;Dark Green;Excellent;237
+16612028;The Belle General;Cafe;20;2;41;Green;Very Good;56
+16607969;Bespoke Harvest;Cafe, Australian;20;2;37;Yellow;Good;29
+16604358;Blue Bean Love Cafe;Cafe, Coffee and Tea, Modern Australian;20;2;38;Yellow;Good;192
+16612550;5 Little Pigs;Breakfast, Modern Australian;20;2;41;Green;Very Good;40
+16611498;Stillwater on Belmore;Breakfast, Coffee and Tea;20;2;36;Yellow;Good;18
+17842104;Mr.;Cafe;20;2;35;Yellow;Good;31
+16611701;Star Buffet;Asian;20;2;29;Orange;Average;11
+16608483;DiVine;Cafe, Coffee and Tea, Sandwich;20;2;34;Orange;Average;19
+16604370;Mad Cowes Cafe;Breakfast, Coffee and Tea, Modern Australian;20;2;37;Yellow;Good;351
+18484423;Al'frank Cookies;Bakery;20;2;42;Green;Very Good;29
+16605194;Pig and Whistle;Australian;20;2;41;Green;Very Good;87
+16608209;Anchorage Cafe Restaurant Wine Bar;Coffee and Tea, Tapas, Australian;20;2;36;Yellow;Good;96
+17284404;Austin's BBQ and Oyster Bar;BBQ, Burger, Seafood;25;2;33;Orange;Average;35
+17284139;Harvest Moon;Pizza, Bar Food, Sandwich;25;2;37;Yellow;Good;147
+17284145;Hong Kong Cafe;Chinese, Seafood, Vegetarian;25;2;36;Yellow;Good;88
+17284175;Locos Grill & Pub;American, Burger, Sandwich;25;2;35;Yellow;Good;57
+17284179;Longhorn Steakhouse;American, Steak;25;2;35;Yellow;Good;58
+17293186;DePalma's Italian Cafe - Downtown;American, Italian, Pizza;25;2;4;Green;Very Good;353
+17293180;DePalma's Italian Cafe - East Side;American, Italian, Pizza;25;2;41;Green;Very Good;387
+17293870;Shokitini;Asian, Japanese, Sushi;25;2;42;Green;Very Good;550
+17293873;Trappeze Pub;Burger, Bar Food;25;2;42;Green;Very Good;579
+17294279;The Bee's Knees;International, Tapas, Vegetarian;25;2;45;Dark Green;Excellent;631
+17295215;Farmhaus Burger;American, Burger;25;2;39;Yellow;Good;201
+17294642;Sconyers Bar B Que;BBQ;25;2;35;Yellow;Good;304
+17294441;Giuseppe's Pizza & Italian Specialities;Desserts, Italian, Pizza;25;2;41;Green;Very Good;430
+17294552;Mellow Mushroom;Italian, Pizza, Sandwich;25;2;44;Green;Very Good;433
+17294623;Rhinehart's Oyster Bar;Bar Food, Sandwich, Seafood;25;2;4;Green;Very Good;456
+17295069;The Taj of India;Indian;25;2;4;Green;Very Good;227
+17294261;Augsburg Haus;German;25;2;39;Yellow;Good;290
+17294836;Rhinehart's Oyster Bar;Burger, Seafood;25;2;4;Green;Very Good;326
+17303465;Bardenay;American, Bar Food;25;2;45;Dark Green;Excellent;879
+17303642;Flatbread Neapolitan Pizzeria;Italian, Pizza;25;2;46;Dark Green;Excellent;615
+17303670;Goldy's Breakfast Bistro;Breakfast, Sandwich;25;2;45;Dark Green;Excellent;879
+17303480;Bittercreek Ale House;American, Bar Food;25;2;43;Green;Very Good;555
+17303646;Flying Pie Pizzaria;Pizza;25;2;41;Green;Very Good;550
+17304929;Fork;American, Burger;25;2;44;Green;Very Good;650
+17305123;Lucianos Italian Restaurant;Italian, Seafood, Vegetarian;25;2;44;Green;Very Good;360
+17303990;Shige Japanese Cuisine;Japanese, Sushi, Teriyaki;25;2;41;Green;Very Good;393
+17304486;Texas Roadhouse;American, BBQ, Steak;25;2;4;Green;Very Good;369
+17316038;Irish Democrat;American, BBQ, Burger;25;2;44;Green;Very Good;430
+17316771;Taste of India;Indian;25;2;42;Green;Very Good;186
+17316389;Monica's;American, Italian, Pizza;25;2;38;Yellow;Good;161
+17316278;Exotic India;Indian;25;2;41;Green;Very Good;160
+17316766;Bluebird Diner;Breakfast, Diner;25;2;36;Yellow;Good;253
+17316374;A & A Pagliai's Pizza;Pizza;25;2;43;Green;Very Good;485
+17316802;BlackStone;American, Breakfast;25;2;41;Green;Very Good;294
+17316449;Jimmy Jack's Rib Shack;BBQ;25;2;42;Green;Very Good;259
+17316603;Zoeys Pizzeria;Pizza, Sandwich;25;2;47;Dark Green;Excellent;433
+16659169;Tokyo Sushi;Japanese, Sushi;25;2;37;Yellow;Good;176
+18366580;Sakura Sushi & Grill;Asian, Japanese;25;2;31;Orange;Average;6
+17330611;Cafe Le Rue @ The Landings;American, Seafood, Cajun;25;2;46;Dark Green;Excellent;489
+17330609;Mark's City Grille;American;25;2;45;Dark Green;Excellent;345
+17330024;B Merrell's;Burger, Bar Food, Southern;25;2;38;Yellow;Good;149
+17330074;Cannon Brewpub;Pizza, Bar Food;25;2;39;Yellow;Good;330
+17330604;Burt's Butcher Shoppe and Eatery;Steak;25;2;43;Green;Very Good;213
+17330087;Chef Lee's Peking Restaurant;Chinese;25;2;4;Green;Very Good;335
+17330137;Country's Barbecue;BBQ, Southern;25;2;4;Green;Very Good;353
+17330309;Mellow Mushroom;Pizza;25;2;41;Green;Very Good;192
+17330638;The Black Cow;American;25;2;43;Green;Very Good;287
+16643459;Consort Restaurant;Chinese, Canadian;25;2;3;Orange;Average;6
+17334434;Thatcher's Barbeque and Grill;American, BBQ, Southern;25;2;37;Yellow;Good;38
+17334213;Dub's High on the Hog;BBQ;25;2;44;Green;Very Good;207
+17333797;Chili's Grill & Bar;American;25;2;38;Yellow;Good;63
+17334254;Tony's Italian Restaurant & Pizza;Italian;25;2;37;Yellow;Good;116
+17334211;Kobe Hibachi & Sushi;American, Japanese, Sushi;25;2;46;Dark Green;Excellent;214
+17334034;Thai Garden;Thai;25;2;42;Green;Very Good;111
+17335173;Olive Tree Cafe;Indian, Mediterranean, Middle Eastern;25;2;46;Dark Green;Excellent;166
+17335225;Crust Stone Oven Pizza;Burger, Pizza;25;2;39;Yellow;Good;136
+17334965;Trattoria Tiramisu;Italian;25;2;41;Green;Very Good;117
+17335189;Prairie Grille at SteepleGate Inn;American, Breakfast;25;2;34;Orange;Average;53
+17335156;Tantra Asian Bistro;Asian;25;2;49;Dark Green;Excellent;474
+18453427;Frick's Tap;American, Bar Food, BBQ;25;2;0;White;Not rated;2
+17793744;Los Agaves;Mexican;25;2;0;White;Not rated;3
+17334718;China Cafe;Chinese;25;2;4;Green;Very Good;112
+17334763;Exotic Thai Restaurant;Thai;25;2;41;Green;Very Good;256
+17334782;Granite City Food & Brewery;American;25;2;4;Green;Very Good;199
+17334846;Los Agaves;Mexican;25;2;41;Green;Very Good;157
+17334853;Machine Shed Restaurant;American;25;2;41;Green;Very Good;100
+17334958;Texas Roadhouse;American, BBQ, Steak;25;2;42;Green;Very Good;197
+17258496;Hickory Park;BBQ, Burger, Desserts;25;2;45;Dark Green;Excellent;1025
+17259395;The Cafe;American, Coffee and Tea;25;2;49;Dark Green;Excellent;570
+17258136;Cool Basil;Asian, Sushi, Thai;25;2;41;Green;Very Good;496
+17258522;HuHot Mongolian Grill;Asian, Chinese;25;2;4;Green;Very Good;411
+17259958;Malo;Latin American, Mexican;25;2;32;Orange;Average;113
+17259368;Fong's Pizza;Chinese, Pizza;25;2;46;Dark Green;Excellent;728
+17259243;Miyabi 9;Japanese, Sushi;25;2;48;Dark Green;Excellent;860
+17259248;Jethro's BBQ;American, BBQ;25;2;43;Green;Very Good;699
+17258552;The Machine Shed Restaurant;American, Breakfast;25;2;38;Yellow;Good;308
+17259550;Mi Patria;Latin American;25;2;4;Green;Very Good;157
+17342498;Catfish Charlie's;Seafood;25;2;33;Orange;Average;40
+17342781;Tony Roma's;American, BBQ, Seafood;25;2;33;Orange;Average;65
+17342799;Vinny Vanucchi's;Italian;25;2;34;Orange;Average;58
+17342772;Champps Americana;American, Burger, Sandwich;25;2;35;Yellow;Good;100
+17342556;Houlihan's;American, Burger;25;2;36;Yellow;Good;117
+17342576;Kalmes Breaktime Bar & Grill;American, Burger;25;2;36;Yellow;Good;48
+17342594;Mario's Italian Restaurant;American, Italian;25;2;36;Yellow;Good;140
+17342652;Shot Tower Inn;Italian, Pizza;25;2;36;Yellow;Good;131
+17342810;Watershed Cafe;American, Burger, Pizza, Cafe;25;2;37;Yellow;Good;89
+17374405;Houndstooth Grill & Tavern;American, Sandwich, Seafood;25;2;44;Green;Very Good;239
+17375164;Bourbon Street Grille;American, Burger, Cajun;25;2;38;Yellow;Good;88
+17375077;Shenanigan's Irish Pub;Bar Food, Seafood, Vegetarian;25;2;41;Green;Very Good;171
+17375141;Fish Tales Lakeside Grille;Seafood;25;2;38;Yellow;Good;107
+17375072;Atlanta Highway Seafood Market;Sandwich, Seafood, Cajun;25;2;49;Dark Green;Excellent;681
+17375074;Smoke House BBQ and Catering;BBQ;25;2;38;Yellow;Good;89
+17374921;2 Dog;American, European, Sandwich;25;2;42;Green;Very Good;350
+17375089;Re-Cess;American, Southern;25;2;42;Green;Very Good;319
+17374978;Troll Tavern;Burger, German, Sandwich;25;2;22;Red;Poor;108
+17452342;Blue Orchid Thai Restaurant;Thai;25;2;45;Dark Green;Excellent;799
+17501291;Emilio's Cuban Cafe;Coffee and Tea, Cuban, Latin American;25;2;39;Yellow;Good;146
+17500767;Jim Shaw's Seafood Grill & Bar;Seafood;25;2;46;Dark Green;Excellent;467
+17500819;Mandarin Chinese Restaurant;Chinese, Thai;25;2;45;Dark Green;Excellent;302
+17500911;Rookery;Burger, Desserts, Bar Food;25;2;45;Dark Green;Excellent;289
+17501315;Benson's Steak and Sushi;American, Chinese, Sushi;25;2;37;Yellow;Good;243
+17501201;My Fathers Place;Italian;25;2;37;Yellow;Good;104
+17501281;The Mellow Mushroom;Pizza, Sandwich, Vegetarian;25;2;38;Yellow;Good;323
+17501292;Greek Village;American, Greek, Seafood;25;2;4;Green;Very Good;316
+17501308;Martin's BBQ;BBQ;25;2;42;Green;Very Good;288
+17687832;Vince's Restaurant & Pizzeria;Italian, Pizza;25;2;36;Yellow;Good;65
+17061296;Pom Pom's Teahouse and Sandwicheria;American, Sandwich, Tea;25;2;49;Dark Green;Excellent;1457
+17064031;Tibby's New Orleans Kitchen;Cajun;25;2;47;Dark Green;Excellent;1412
+17066603;The Coop;Southern, Cajun, Soul Food;25;2;36;Yellow;Good;432
+17061253;Ethos Vegan Kitchen;American, Breakfast, Vegetarian;25;2;44;Green;Very Good;797
+17580453;Cactus Flower Cafe Navarre;Mexican, Southwestern, Tex-Mex;25;2;42;Green;Very Good;635
+17580590;Jaco's Bayfront Bar and Grille;Tapas;25;2;39;Yellow;Good;502
+17580704;The Tin Cow;Burger, Bar Food;25;2;37;Yellow;Good;559
+17579928;Cactus Flower Cafe;Latin American, Mexican, Southwestern;25;2;42;Green;Very Good;1268
+17580074;Ichiban;Japanese, Sushi;25;2;43;Green;Very Good;765
+17580350;Tuscan Oven;Italian, Mediterranean, Pizza;25;2;41;Green;Very Good;502
+17580476;Native Cafe;Breakfast, Burger;25;2;42;Green;Very Good;591
+17582560;Grecian Key Restaurant;American, Greek;25;2;37;Yellow;Good;152
+17582670;Portneuf Valley Brewing;American, Pizza;25;2;37;Yellow;Good;191
+17582700;Sushi Family;Asian, Sushi, Vegetarian;25;2;36;Yellow;Good;132
+17582664;Taste of India Nepal;Indian, International, Vegetarian;25;2;38;Yellow;Good;141
+17582682;Thai Paradise;Desserts, Thai;25;2;37;Yellow;Good;162
+18491935;Nosh Mahal;Indian, Persian;25;2;0;White;Not rated;1
+17629582;Barrett Junction Cafe;American, BBQ, Burger;25;2;33;Orange;Average;9
+17144717;Giovanni's Shrimp Truck;Seafood;25;2;45;Dark Green;Excellent;691
+17142096;Gazebo;Breakfast, Burger;25;2;44;Green;Very Good;552
+17142747;Lulu's Waikiki;American;25;2;39;Yellow;Good;232
+17143705;Wailana Coffee House;American, Breakfast, Hawaiian;25;2;42;Green;Very Good;694
+17616266;Zunzi's;International, Mediterranean, Sandwich;25;2;45;Dark Green;Excellent;796
+17615976;Moon River Brewing Company;American, Bar Food, Sandwich;25;2;37;Yellow;Good;747
+17615597;B. Matthew's Eatery;American, Breakfast;25;2;41;Green;Very Good;683
+17615740;Crystal Beer Parlor;American, Bar Food;25;2;44;Green;Very Good;690
+17616348;J. Christopher's;Breakfast, Diner, Sandwich;25;2;43;Green;Very Good;710
+17616076;SOHO South Cafe;Cafe, Sandwich, Southern;25;2;43;Green;Very Good;719
+17621780;HuHot Mongolian Grill;Asian, Chinese;25;2;36;Yellow;Good;94
+17621781;Hunan Palace;Chinese;25;2;38;Yellow;Good;129
+17621788;Jerry's Pizza;Pizza;25;2;38;Yellow;Good;178
+17621869;Rebos;Caribbean, Mexican, Cajun;25;2;38;Yellow;Good;187
+17621946;Trattoria Fresco;Italian;25;2;4;Green;Very Good;271
+17096140;Rumba Island Bar & Grill;BBQ, Caribbean, Seafood;25;2;46;Dark Green;Excellent;1321
+17099925;Red Mesa Cantina;Latin American, Mexican, Southwestern;25;2;46;Dark Green;Excellent;1629
+17092257;BellaBrava;American, Italian, Seafood;25;2;41;Green;Very Good;921
+17092799;Ceviche Tapas Bar & Restaurant;Spanish, Tapas;25;2;41;Green;Very Good;986
+17095222;The Moon Under Water;British, Bar Food, Sandwich;25;2;41;Green;Very Good;1020
+17092801;Ceviche Tapas Bar & Restaurant;Breakfast, Spanish, Tapas;25;2;44;Green;Very Good;1007
+17093273;Daily Eats;American, Burger;25;2;44;Green;Very Good;803
+17678243;Buffalo Wild Wings;Bar Food;25;2;34;Orange;Average;98
+17678043;El Toreo Mexican Restaurant;Mexican;25;2;31;Orange;Average;83
+17677990;Bleu Cafe;Pizza, Sandwich;25;2;37;Yellow;Good;185
+17678276;Cheddar's Scratch Kitchen;American;25;2;37;Yellow;Good;209
+17678222;Friends Grille and Bar;American, Southern;25;2;39;Yellow;Good;243
+17678229;Masato Japanese;Japanese, Sushi;25;2;39;Yellow;Good;262
+17678097;Mom & Dad's Italian Restaurant;Italian;25;2;37;Yellow;Good;183
+17678233;Passage 2 India;Indian, Middle Eastern;25;2;38;Yellow;Good;245
+17678148;Rodeo Mexican Restaurant;Mexican;25;2;38;Yellow;Good;199
+17678218;Smok'n Pig B-B-Q;BBQ;25;2;41;Green;Very Good;575
+17696871;Brown Bottle The Cedar Falls;Italian, Pizza, Vegetarian;25;2;37;Yellow;Good;134
+17697384;HuHot Mongolian Grill;Asian, Chinese;25;2;37;Yellow;Good;113
+17696920;Mulligan's Brick Oven Grill;Burger, Pizza, Sandwich;25;2;36;Yellow;Good;80
+17696941;SOHO Sushi Bar & Deli;Sandwich, Sushi, Tapas;25;2;36;Yellow;Good;114
+17696955;Texas Roadhouse;American, BBQ, Steak;25;2;36;Yellow;Good;93
+17696957;Tony's La Pizzeria;Pizza, Sandwich;25;2;36;Yellow;Good;89
+17697418;Chapala;Mexican;25;2;36;Yellow;Good;69
+17697304;Rudy's Tacos;Mexican;25;2;36;Yellow;Good;104
+17697332;Tokyo Japanese Steak House;Japanese, Steak, Sushi;25;2;39;Yellow;Good;156
+17694056;Theo Yianni's Authentic Greek Restaurant;Burger, Greek, Sandwich;25;2;39;Yellow;Good;156
+17559793;Fishpatrick's Crabby Cafe;Burger, Seafood, Steak;25;2;32;Orange;Average;16
+16668008;Arigato Sushi;Asian;25;2;33;Orange;Average;26
+16613507;Flaxton Gardens;Tea, Modern Australian;30;3;35;Yellow;Good;37
+16609169;Three Anchors;Bar Food, Modern Australian;30;3;38;Yellow;Good;176
+16613059;Poets Cafe;Coffee and Tea, Modern Australian;30;3;24;Red;Poor;193
+16613649;Vivo Bar and Grill;Mediterranean, Seafood;30;3;44;Green;Very Good;381
+17582524;Butterburrs;American, Breakfast;30;3;36;Yellow;Good;121
+17144991;Coconuts Fish Cafe;Seafood;30;3;45;Dark Green;Excellent;487
+18493989;Makansutra Gluttons Bay;Singaporean, Chinese, Seafood, Malay, Indian;30;3;3;Orange;Average;25
+16608059;1918 Bistro & Grill;Modern Australian, Australian;30;3;44;Green;Very Good;339
+17294850;Thai Kitchen;Thai;35;3;43;Green;Very Good;317
+17058534;Earl of Sandwich;American, Sandwich, Salad;35;3;47;Dark Green;Excellent;1341
+17064266;Hawkers Asian Street Fare;Asian, Thai;35;3;46;Dark Green;Excellent;1293
+17061205;Yellow Dog Eats;American, BBQ, Sandwich;35;3;49;Dark Green;Excellent;1252
+17143970;Kona Brewing Company;American, Pizza, Bar Food;35;3;47;Dark Green;Excellent;764
+17678231;Beijing Cafe;Asian, Chinese, Thai;35;3;38;Yellow;Good;185
+17284197;Mikata Japanese Steakhouse;Japanese, Steak, Sushi;40;3;36;Yellow;Good;115
+17284241;Shogun Japanese Steak House;Japanese, Steak, Sushi;40;3;35;Yellow;Good;51
+17284390;The Catch Seafood Room & Oyster Bar;Seafood, Tapas, Bar Food;40;3;38;Yellow;Good;250
+17293281;Last Resort Grill;American, Southern, Southwestern;40;3;45;Dark Green;Excellent;1821
+17293205;Five & Ten;American;40;3;43;Green;Very Good;755
+17293273;La Dolce Vita Ristorante;Italian;40;3;41;Green;Very Good;464
+17293890;The National;International, Southern;40;3;41;Green;Very Good;465
+17294556;Miyabi Kyoto Japanese Steak House;Chinese, Steak;40;3;46;Dark Green;Excellent;717
+17294607;Rae's Coastal Cafe;American, Caribbean, Seafood;40;3;49;Dark Green;Excellent;548
+17295028;Manuel's Bread Cafe;Breakfast, French;40;3;38;Yellow;Good;332
+17295109;Frog Hollow Tavern;American;40;3;43;Green;Very Good;368
+17294712;Takosushi;Mexican, Southwestern, Sushi;40;3;42;Green;Very Good;647
+17295033;The Chop House;Steak;40;3;4;Green;Very Good;360
+17303787;Mai Thai Restaurant;Sushi, Thai;40;3;4;Green;Very Good;340
+17304726;Tucanos;Brazilian;40;3;4;Green;Very Good;435
+17304533;Brick 29;American;40;3;44;Green;Very Good;487
+17316233;Winifreds;American, Mediterranean, Seafood;40;3;37;Yellow;Good;98
+17315883;Biaggi's Ristorante Italiano;Italian, Pizza;40;3;41;Green;Very Good;365
+17316018;Granite City Food & Brewery;American, Breakfast, Burger;40;3;41;Green;Very Good;429
+17316743;Graze;American, International, Sushi;40;3;38;Yellow;Good;220
+17316381;Atlas World Grill;International;40;3;43;Green;Very Good;428
+17316416;Devotay;Mediterranean, Tapas, Vegetarian;40;3;4;Green;Very Good;380
+17330185;Fuji Japanese Steak House;Japanese, Steak;40;3;39;Yellow;Good;247
+17330735;Samurai Japanese Cuisine & Sushi Bar;Japanese, Steak, Sushi;40;3;36;Yellow;Good;109
+17330676;Wasabi Sushi and Thai;Japanese, Sushi, Thai;40;3;37;Yellow;Good;134
+17330048;Buckhead Bar and Grill;Seafood, Steak, Vegetarian;40;3;42;Green;Very Good;722
+17330311;Meritage;American, Tapas;40;3;41;Green;Very Good;302
+17330628;Wood Stone;Italian, Mediterranean, Pizza;40;3;4;Green;Very Good;264
+17330546;Hunter's Pub;American, Seafood, Steak;40;3;44;Green;Very Good;235
+17334217;Fuji Japanese Steakhouse;Japanese, Sushi;40;3;38;Yellow;Good;145
+17335195;Red Ginger Sushi, Grill & Bar;Sushi, Teriyaki;40;3;45;Dark Green;Excellent;208
+17335168;Osaka;Japanese, Sushi;40;3;42;Green;Very Good;141
+17258350;Flying Mango;BBQ, Caribbean, Cajun;40;3;45;Dark Green;Excellent;674
+17258036;Centro;Italian, Pizza;40;3;45;Dark Green;Excellent;1109
+17258154;Court Avenue Brewing Company;American, Pizza, Bar Food;40;3;42;Green;Very Good;370
+17259340;Django;French;40;3;43;Green;Very Good;532
+17259200;Waterfront Seafood Market;Seafood, Sushi;40;3;42;Green;Very Good;530
+17342811;Ichiban Hibachi Steakhouse & Sushi Bar;Japanese, Steak, Sushi;40;3;37;Yellow;Good;83
+17342770;L. May Eatery;International, Pizza;40;3;38;Yellow;Good;198
+17342625;Pepper Sprout Incorporated;American;40;3;36;Yellow;Good;159
+17374552;Corkscrew Cafe;;40;3;39;Yellow;Good;209
+17375198;Antebellum;American, Southern;40;3;43;Green;Very Good;164
+17375214;Bodensee;German;40;3;38;Yellow;Good;114
+17501439;Dovetail;;40;3;38;Yellow;Good;102
+17501279;Bonefish Grill;American, Seafood;40;3;41;Green;Very Good;293
+17501268;Zen Japanese Steakhouse and Sushi Bar;Japanese, Steak, Sushi;40;3;41;Green;Very Good;314
+17534788;The Artesian Restaurant;American, International, Southwestern;40;3;36;Yellow;Good;30
+17061237;Cev�_che Tapas Bar & Restaurant;Spanish, Tapas;40;3;44;Green;Very Good;981
+17057925;Caf�� Tu Tu Tango;New American, Tapas;40;3;46;Dark Green;Excellent;1293
+17059012;Hollerbach's Willow Tree Caf��;German;40;3;48;Dark Green;Excellent;1699
+17057797;Bosphorous Turkish Cuisine;Mediterranean, Turkish;40;3;42;Green;Very Good;568
+17059060;Hillstone;;40;3;44;Green;Very Good;1158
+17061231;The Ravenous Pig;Pub Food;40;3;44;Green;Very Good;1998
+17580142;McGuire's Irish Pub & Brewery;Burger, Bar Food, Steak;40;3;49;Dark Green;Excellent;2238
+17580412;Carrabba's Italian Grill;Italian, Pizza, Seafood;40;3;37;Yellow;Good;292
+17579992;Dharma Blue;Seafood, Sushi;40;3;41;Green;Very Good;669
+17580030;Global Grill;European, International, Tapas;40;3;44;Green;Very Good;900
+17580020;The Fish House;American, Seafood, Sushi;40;3;4;Green;Very Good;1270
+17580408;Flounders Chowder House;Seafood;40;3;39;Yellow;Good;724
+17579653;Hemingway's Island Grill;Caribbean, Seafood, Steak;40;3;35;Yellow;Good;479
+17580422;Peg Leg Pete's;Burger, Sandwich, Seafood;40;3;44;Green;Very Good;1408
+17580539;The Grand Marlin;Caribbean, Seafood;40;3;43;Green;Very Good;905
+17580021;Fisherman's Corner;Sandwich, Seafood, Cajun;40;3;44;Green;Very Good;747
+17582522;Buddy's Italian Restaurant;Italian, Pizza, Sandwich;40;3;37;Yellow;Good;222
+17582625;Sandpiper Restaurant & Lounge;American, Seafood, Steak;40;3;36;Yellow;Good;85
+17582669;The Bridge;New American;40;3;36;Yellow;Good;144
+17145408;Monkeypod Kitchen by Merriman;Burger;40;3;42;Green;Very Good;485
+17143336;Sansei Seafood Restaurant & Sushi Bar;Japanese, Seafood, Sushi;40;3;42;Green;Very Good;807
+17142297;Hula Grill;Hawaiian, Seafood, Steak;40;3;43;Green;Very Good;1056
+17142535;Kimo's;Hawaiian, Seafood, Steak;40;3;43;Green;Very Good;707
+17143950;Yard House;American, Asian, Burger;40;3;46;Dark Green;Excellent;1078
+17615915;The Lady & Sons;Southern;40;3;33;Orange;Average;1201
+17616487;Green Truck Pub;Burger;40;3;47;Dark Green;Excellent;906
+17615979;Mrs. Wilkes' Dining Room;American, Southern;40;3;45;Dark Green;Excellent;1014
+17616025;Pirates' House Restaurant;American, Seafood, Steak;40;3;38;Yellow;Good;566
+17615855;Huey's On The River;Breakfast, Cajun;40;3;41;Green;Very Good;802
+17616295;The Crab Shack;Seafood;40;3;38;Yellow;Good;883
+18483224;Chye Seng Huat Hardware;Cafe;40;3;37;Yellow;Good;33
+18483446;Bitters & Love;Finger Food;40;3;39;Yellow;Good;35
+17621616;Archie's Waeside;Burger, Seafood, Steak;40;3;37;Yellow;Good;100
+17621763;Fuji Bay Japanese Restaurant;Japanese, Sushi;40;3;37;Yellow;Good;129
+17621833;Minerva's Food & Cocktails;American, Seafood, Steak;40;3;37;Yellow;Good;146
+17621960;Tokyo Japanese Steakhouse & Sushi Bar;Japanese, Steak, Sushi;40;3;39;Yellow;Good;239
+17621755;El Fredo Pizza;Pizza;40;3;4;Green;Very Good;280
+17102241;Boca Kitchen Bar Market;Breakfast;40;3;39;Yellow;Good;665
+17096198;Salt Rock Grill;American, Seafood, Steak;40;3;42;Green;Very Good;1363
+17093135;Conch Republic Grill;Sandwich, Seafood, Steak;40;3;45;Dark Green;Excellent;844
+17095236;Mr. Dunderbak's Biergarten and Marketplatz;European, German;40;3;49;Dark Green;Excellent;1413
+17095979;Red Mesa Restaurant;Breakfast, Mexican;40;3;45;Dark Green;Excellent;1203
+17099856;Datz;Desserts, Bar Food;40;3;47;Dark Green;Excellent;3074
+17100307;Ella's Americana Folk Art Cafe;International, Italian, Southern;40;3;48;Dark Green;Excellent;1715
+17100547;The Refinery;Seafood, Steak;40;3;4;Green;Very Good;875
+17093124;Columbia Restaurant;Cuban, Spanish;40;3;44;Green;Very Good;1746
+17677978;306 North Restaurant;Seafood, Southern;40;3;39;Yellow;Good;231
+17677988;Austins Cattle Co;Burger, Seafood, Steak;40;3;37;Yellow;Good;216
+17678307;Bubba Jax Crab Shack;Fast Food, Seafood;40;3;37;Yellow;Good;137
+17678055;Giulios Greek & Italian Restaurant;Greek, Italian;40;3;38;Yellow;Good;221
+17678291;Steel Magnolias;Southern;40;3;38;Yellow;Good;225
+17696918;Montage;American, Italian, Seafood;40;3;36;Yellow;Good;89
+17697398;Sakura;Japanese, Sushi;40;3;38;Yellow;Good;175
+17697386;Galleria de Paco;American;40;3;36;Yellow;Good;86
+17057397;'Ohana;Hawaiian;45;3;45;Dark Green;Excellent;1151
+17057591;Bahama Breeze Island Grille;Caribbean;45;3;43;Green;Very Good;910
+17582668;Texas Roadhouse;American, BBQ, Steak;45;3;35;Yellow;Good;83
+17060320;Raglan Road Irish Pub and Restaurant;Irish;50;4;43;Green;Very Good;782
+17059541;Maggiano's Little Italy;Italian;50;4;44;Green;Very Good;886
+18485469;Boufe Boutique Cafe;Italian, French, Bakery, Cafe;50;3;32;Orange;Average;29
+18483082;Artistry;American, Bakery, European, Burger, Fusion;50;3;38;Yellow;Good;28
+17060516;Seasons 52 Fresh Grill;American;60;4;44;Green;Very Good;1685
+18482983;The Lokal;Singaporean, Australian, German;60;4;31;Orange;Average;33
+18479742;I Am;Western, Fusion, Fast Food;60;4;32;Orange;Average;32
+17284403;Henry Campbell's Steakhouse;Steak, Tapas, Bar Food;70;4;35;Yellow;Good;51
+17303545;Chandlers Steakhouse;American, Seafood, Steak;70;4;39;Yellow;Good;379
+17304691;Barbacoa Restaurant;Latin American, Steak;70;4;41;Green;Very Good;538
+17334752;Duck City Bistro;American, French;70;4;37;Yellow;Good;201
+17259169;Tursi's Latin King;American, Italian;70;4;41;Green;Very Good;476
+17342775;Woodfire Grille;American, Seafood, Steak;70;4;36;Yellow;Good;72
+17500695;Downtown Grill;Steak;70;4;4;Green;Very Good;195
+17500847;Natalia's;European, Italian, Mediterranean;70;4;42;Green;Very Good;379
+17211719;Blue Point Grill;Seafood;70;4;4;Green;Very Good;542
+17142792;Mama's Fish House;Hawaiian, Seafood;70;4;49;Dark Green;Excellent;1343
+17141990;Duke's Waikiki;Hawaiian, Seafood, Steak;70;4;44;Green;Very Good;1492
+17143282;Roy's;Asian, European, Seafood;70;4;42;Green;Very Good;531
+17616400;Rocks on the River;Pizza, Seafood, Steak;70;4;4;Green;Very Good;687
+17616205;The Olde Pink House;American, Seafood, Southern;70;4;44;Green;Very Good;1803
+17616222;Vic's On The River;American;70;4;41;Green;Very Good;558
+17621552;Kahill's Steak-Fish Chophouse;American, Seafood, Steak;70;4;35;Yellow;Good;58
+17092293;Bern's Steak House;American, Desserts, Steak;70;4;47;Dark Green;Excellent;3157
+17102579;Edison: Food+Drink Lab;International;70;4;39;Yellow;Good;373
+17678216;Mori's Japanese Steakhouse & Sushi Bar;Japanese, Steak, Sushi;70;4;35;Yellow;Good;208
+16654702;Lake House Restaurant;Italian, Mediterranean, Pizza;70;4;43;Green;Very Good;204
+18483252;Artichoke Cafe;Cafe, Spanish, Turkish, Greek;75;4;32;Orange;Average;33
+18483389;Potato Head Folk;American;80;4;31;Orange;Average;34
+18479690;The Refinery Singapore;American, Japanese, Singaporean;80;4;32;Orange;Average;30
+17060869;Texas de Brazil;Brazilian, Steak;100;4;46;Dark Green;Excellent;2324
+18483714;Fratini La Trattoria;Italian;100;4;41;Green;Very Good;35
+18255631;Pier 70;Modern Australian;120;4;26;Orange;Average;16
+18484464;Colony;Asian, Continental, Seafood;220;4;38;Yellow;Good;30
+18484349;Cut By Wolfgang Puck;American, Steak;270;4;4;Green;Very Good;33
+18483372;Sky On 57;Chinese, Continental, Singaporean;300;4;34;Orange;Average;34
+18483051;Summer Pavilion;Chinese, Seafood, Cantonese, Dim Sum;300;4;39;Yellow;Good;34
+18483085;Rhubarb Le Restaurant;French;315;4;39;Yellow;Good;33
+18483222;Jaan;French;430;4;38;Yellow;Good;35
+18496057;Restaurant Andre;French, Mediterranean, European;500;4;38;Yellow;Good;33
