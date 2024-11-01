@@ -1,3 +1,8 @@
 INDEX VERSION 1.131+C:\Users\Denni\OneDrive - UNIVALI\DISCIPLINAS\Disciplina IA Ciencias da Computação\turma 2024-02\work\AulaIA1\.metadata\.plugins\org.eclipse.jdt.core
-1118846838.index
+2029939520.index
+1275857947.index
+3179176548.index
 1865797976.index
+1549114427.index
+1762730499.index
+3639777807.index

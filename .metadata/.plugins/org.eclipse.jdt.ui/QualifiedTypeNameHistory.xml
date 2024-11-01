@@ -8,4 +8,6 @@
     <fullyQualifiedTypeName name="FuzzyMain"/>
     <fullyQualifiedTypeName name="java.util.HashMap"/>
     <fullyQualifiedTypeName name="VariavelFuzzy"/>
+    <fullyQualifiedTypeName name="org.neuroph.core.events.LearningEventListener"/>
+    <fullyQualifiedTypeName name="java.text.DecimalFormat"/>
 </qualifiedTypeNameHistroy>
