@@ -1,9 +1,9 @@
+/AEstrela.class
 /Agente.class
 /Chara1.png
 /GamePanel$1.class
 /GamePanel$2.class
 /GamePanel$3.class
-/GamePanel$4.class
 /GamePanel.class
 /Main.class
 /Mapa.class
@@ -12,4 +12,8 @@
 /Node.class
 /Personagem.class
 /imagemlabirinto.png
-/imagemlabirinto1000.png
+/nodo.class
+/GamePanel$4.class
+/MapIndividuo.class
+/GamePanel$5.class
+/GamePanel$1$1.class

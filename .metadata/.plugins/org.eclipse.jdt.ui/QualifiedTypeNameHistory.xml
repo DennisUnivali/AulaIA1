@@ -11,4 +11,7 @@
     <fullyQualifiedTypeName name="java.io.BufferedReader"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="RedeNeuralTitanic"/>
+    <fullyQualifiedTypeName name="GamePanel"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="MeuAgente"/>
 </qualifiedTypeNameHistroy>
